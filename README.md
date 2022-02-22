@@ -11,7 +11,7 @@ Tools:
 Documents in this repo:
 * Reports 
     * report1:
-        * Description of the databse(DB)
+        * Description of the database(DB)
         * E-R diagram
         * Relational diagram
     * report2:
