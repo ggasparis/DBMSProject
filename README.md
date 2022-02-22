@@ -8,7 +8,7 @@ Tools:
 * SSMS
 * MS Access + VB6
 
-Documents in thios repo:
+Documents in this repo:
 * Reports 
     * report1:
         * Description of the databse(DB)
